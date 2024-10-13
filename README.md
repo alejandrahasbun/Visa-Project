@@ -1,4 +1,5 @@
-EasyVisa Project
+EasyVisa
+
 The EasyVisa project aims to simplify the visa application process by utilizing machine learning techniques to analyze visa application data. 
 The goal is to develop a classification model that helps improve visa approval decisions by identifying key factors that influence whether an application is approved or denied.
 
